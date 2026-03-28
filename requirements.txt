@@ -1,0 +1,6 @@
+openai
+google-genai
+python-dotenv
+mem0ai
+sentence-transformers
+pytest
