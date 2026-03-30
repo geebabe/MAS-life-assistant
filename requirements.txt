@@ -4,3 +4,4 @@ python-dotenv
 mem0ai
 sentence-transformers
 pytest
+langgraph
