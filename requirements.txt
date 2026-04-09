@@ -6,3 +6,6 @@ sentence-transformers
 pytest
 langgraph
 streamlit
+fastapi
+uvicorn
+requests

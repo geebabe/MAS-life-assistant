@@ -31,6 +31,7 @@ class Config:
             "provider": "qdrant",
             "config": {
                 "path": os.path.join(os.getcwd(), ".mem0/qdrant"),
+                "vector_size": 384,
             }
         },
         "history_db": os.path.join(os.getcwd(), ".mem0/history.db")
